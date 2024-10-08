@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ainur Reza
 
-🚀 Developer | 🌱 Learning | 💡 Innovator | 📚 Open Source Enthusiast | 🌍 Community Contributor
-👨‍💻 Full-time coder, part-time dreamer! I love crafting cool stuff with code and exploring new tech.  
+- 🚀 Developer | 🌱 Learning | 💡 Innovator | 📚 Open Source Enthusiast | 🌍 Community Contributor
+- 👨‍💻 Full-time coder, part-time dreamer! I love crafting cool stuff with code and exploring new tech.  
 
 ## About Me  
 
